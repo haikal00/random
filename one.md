@@ -5,7 +5,10 @@ header example
 --------------
 another header
 ==============
+### 3rd level heading ###
 Another line with inline code. `public static void main(String[] args)` is the example.
+#### 4th level? ####
+
 Code snippet example:
 ```xml
 <dependencies>
